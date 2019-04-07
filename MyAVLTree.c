@@ -9,8 +9,7 @@
 #define right(node) node->right
 #define parent(node) node->parent
 
-// all the basic data structures and functions are included in this template
-// you can add your own auxiliary functions as you like 
+
 
 // data type for avl tree nodes
 typedef struct AVLTreeNode {
